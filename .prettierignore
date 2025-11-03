@@ -1,0 +1,18 @@
+# Dependencias
+node_modules
+package-lock.json
+yarn.lock
+
+# Build
+dist
+build
+coverage
+
+# Archivos generados
+*.min.js
+*.min.css
+
+# Otros
+.env
+.env.local
+.DS_Store
